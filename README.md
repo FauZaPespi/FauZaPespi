@@ -81,10 +81,10 @@
   <a href="https://discord.com/users/1172167256470474775" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="youtube.fr/@fauzaoff" target="_blank">
+  <a href="https://youtube.fr/@fauzaoff" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="paypal.me/fauzacalvo" target="_blank">
+  <a href="https://paypal.me/fauzacalvo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
   </a>
   <a href="https://ko-fi.com/fauzaoff" target="_blank">
