@@ -14,6 +14,15 @@
 
 ###
 
+<h2 align="left">Actual project</h2>
+
+###
+
+<p align="left">• C# ghost client (no memory)</p>
+<p align="left">• C# Ghost editor (Cheat Maker)</p>
+
+###
+
 <h2 align="left">I live with</h2>
 
 ###
