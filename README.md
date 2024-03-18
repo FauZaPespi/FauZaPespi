@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">• C# ghost client (no memory)</p>
+<p align="left">• C# Ghost client (no memory)</p>
 <p align="left">• C# Ghost editor (Cheat Maker)</p>
 
 ###
