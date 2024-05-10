@@ -18,6 +18,7 @@
 
 ###
 
+<p align="left">• Crocs PVP Client</p>
 <p align="left">• C# Ghost client (no memory)</p>
 <p align="left">• C# Ghost editor (Cheat Maker)</p>
 <p align="left">• PHP Music Player</p>
