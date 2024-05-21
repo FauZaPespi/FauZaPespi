@@ -11,7 +11,8 @@
 ###
 
 <p align="left">Creating some minecraft cheat <3</p>
-<a href="https://fauza.fr"></a>
+<a href="https://fauza.fr">fauza.fr</a>
+
 ###
 
 <h2 align="left">Actual project</h2>
