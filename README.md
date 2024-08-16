@@ -19,13 +19,13 @@
 
 ###
 
-[]<p align="left">• Crocs PVP Client</p>
-[x]<p align="left">• C# Ghost client (no memory)</p>
-[]<p align="left">• C# Ghost editor (Cheat Maker)</p>
-[x]<p align="left">• PHP Music Player</p>
-[]<p align="left">• PHP Portfolio</p>
-[x]<p align="left">• Python discord tools</p>
-[]<p align="left">• ImGui Designer</p>
+[ ] <p align="left">• Crocs PVP Client</p>
+[x] <p align="left">• C# Ghost client (no memory)</p>
+[ ] <p align="left">• C# Ghost editor (Cheat Maker)</p>
+[x] <p align="left">• PHP Music Player</p>
+[ ] <p align="left">• PHP Portfolio</p>
+[x] <p align="left">• Python discord tools</p>
+[ ] <p align="left">• ImGui Designer</p>
 
 
 ###
