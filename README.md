@@ -25,6 +25,7 @@
 - [x] • PHP Music Player</p>
 - [ ] • PHP Portfolio</p>
 - [x] • Python discord tools</p>
+- [~] • Java Agent Minecraft Cheat</p>
 - [ ] • ImGui Designer</p>
 - [ ] • Valorisation (Multiplayer unity game like CSGO)</p>
 
