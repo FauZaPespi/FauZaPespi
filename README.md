@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey, I am a young Swiss-Spanish French-speaking developer I am in CFC IT but I learned to dev very young :)</p>
+<p align="left">Hey, I am a young Swiss-Spanish French-speaking developer I am in CFC IT but I learned to dev very young</p>
 
 ###
 
