@@ -19,14 +19,14 @@
 
 ###
 
-- [ ] • Crocs PVP Client</p>
+- [x] • Crocs PVP Client</p>
 - [x] • C# Ghost client (no memory)</p>
-- [ ] • C# Ghost editor (Cheat Maker)</p>
+- [x] • C# Ghost editor (Cheat Maker)</p>
 - [x] • PHP Music Player</p>
 - [ ] • PHP Portfolio</p>
 - [x] • Python discord tools</p>
-- [~] • Java Agent Minecraft Cheat</p>
-- [ ] • ImGui Designer</p>
+- [X] • Java Agent Minecraft Cheat</p>
+- [x] • ImGui Designer</p>
 - [ ] • Valorisation (Multiplayer unity game like CSGO)</p>
 
 
