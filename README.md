@@ -11,7 +11,7 @@
 ###
 
 <p align="left">Creating some minecraft cheat <3</p>
-<a href="https://fauza.fr">fauza.fr</a> oe il est souvent down mais azy
+<a href="https://fauza.dev">fauza.dev</a> oe il est souvent down mais azy
 
 ###
 
