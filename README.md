@@ -1,7 +1,5 @@
 # 👋 Hey, I'm FauZaPespi
 
----
-
 ## 🚀 About Me
 I create web, CLI, and desktop applications — if you can imagine it, I can build it.
 - 🖥️ Experienced in **object-oriented programming** 
